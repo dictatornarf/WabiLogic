@@ -1,0 +1,11 @@
+Requires that you have NSIS installed on your machine
+http://nsis.sourceforge.net/Main_Page
+
+1. Compile the Visual Studio Setup Project
+2. Copy both the setup.exe and .msi file to another directory
+3. Copy the file InstallerMergerScript.nsi to the same directory
+4. Change the following values in the InstallerMergerScript.nsi file
+5. Change the outfile to "PersistPro_Setup.exe"
+6. Change the installDir to $TEMP\PersistPro
+7. Change the 2nd file to "PersistProSetup.msi"
+8. Open NSIS and execut the script

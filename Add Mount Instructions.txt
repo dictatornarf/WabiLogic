@@ -1,0 +1,10 @@
+1) Create new TypeMount table.
+2) Add table to PersistProDataSet.xsd
+3) Add new Interface and Implementation in Model (Model after FileMount)
+4) Add Create Method to IPlanManager & SqlCePlanManager
+5) Update SqlCePlanManager LoadMount
+6) Update SqlCeFactory const
+7) Update StorageLoader Load()
+8) Update IPersistProWcfProxy & PersistProWcfProxy
+9) Add new GuiEdit in Client (Model after FileMountEdit)
+A) Update MountManagerEdit btnEdit_Click() btnCreate_Click() cmbBoxMountTypes.Items

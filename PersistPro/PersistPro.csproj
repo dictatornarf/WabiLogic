@@ -1,0 +1,250 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{4F5BCE63-BBDD-460D-A98F-349B700906A2}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WabiLogic.PersistPro</RootNamespace>
+    <AssemblyName>PersistPro</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <StartupObject>
+    </StartupObject>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.ServiceModel">
+      <RequiredTargetFramework>3.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Controller\BackupManager.cs" />
+    <Compile Include="Controller\ClientExecutor.cs" />
+    <Compile Include="Controller\ExecutorBase.cs" />
+    <Compile Include="Controller\IConfiguration.cs" />
+    <Compile Include="Controller\ServerExecutor.cs" />
+    <Compile Include="Controller\IFactory.cs" />
+    <Compile Include="Controller\SqlCe\SqlCeConfiguration.cs" />
+    <Compile Include="Controller\SqlCe\SqlCeFactory.cs" />
+    <Compile Include="Controller\StorageLoader.cs" />
+    <Compile Include="Controller\Wcf\WcfConfiguration.cs" />
+    <Compile Include="Controller\Wcf\WcfFactory.cs" />
+    <Compile Include="Model\FilterType.cs" />
+    <Compile Include="Model\HistoryStatus.cs" />
+    <Compile Include="Model\IExternalDriveMount.cs" />
+    <Compile Include="Model\IFileMount.cs" />
+    <Compile Include="Model\IFtpMount.cs" />
+    <Compile Include="Model\IHistory.cs" />
+    <Compile Include="Model\IHistoryManager.cs" />
+    <Compile Include="Model\IMount.cs" />
+    <Compile Include="Model\IPlan.cs" />
+    <Compile Include="Model\IPlanManager.cs" />
+    <Compile Include="Model\IRoot.cs" />
+    <Compile Include="Model\IRootAttributeFilter.cs" />
+    <Compile Include="Model\IRootNameFilter.cs" />
+    <Compile Include="Model\ISchedule.cs" />
+    <Compile Include="Controller\RootTimeSpanPurgeRules.cs" />
+    <Compile Include="Model\ScheduleType.cs" />
+    <Compile Include="Model\SqlCe\SqlCeExternalDriveMount.cs" />
+    <Compile Include="Model\SqlCe\SqlCeFileMount.cs" />
+    <Compile Include="Model\SqlCe\SqlCeFtpMount.cs" />
+    <Compile Include="Model\SqlCe\SqlCeHistory.cs" />
+    <Compile Include="Model\SqlCe\SqlCeHistoryManager.cs" />
+    <Compile Include="Model\SqlCe\SqlCePlan.cs" />
+    <Compile Include="Model\SqlCe\SqlCePlanManager.cs" />
+    <Compile Include="Model\SqlCe\SqlCeRoot.cs" />
+    <Compile Include="Model\SqlCe\SqlCeRootAttributeFilter.cs" />
+    <Compile Include="Model\SqlCe\SqlCeRootNameFilter.cs" />
+    <Compile Include="Model\SqlCe\SqlCeSchedule.cs" />
+    <Compile Include="Model\Wcf\WcfExternalDriveMount.cs" />
+    <Compile Include="Model\Wcf\WcfFileMount.cs" />
+    <Compile Include="Model\Wcf\WcfFtpMount.cs" />
+    <Compile Include="Model\Wcf\WcfHistory.cs" />
+    <Compile Include="Model\Wcf\WcfHistoryManager.cs" />
+    <Compile Include="Model\Wcf\WcfPlan.cs" />
+    <Compile Include="Model\Wcf\WcfPlanManager.cs" />
+    <Compile Include="Model\Wcf\WcfRoot.cs" />
+    <Compile Include="Model\Wcf\WcfRootAttributeFilter.cs" />
+    <Compile Include="Model\Wcf\WcfRootNameFilter.cs" />
+    <Compile Include="Model\Wcf\WcfSchedule.cs" />
+    <Compile Include="PersistProDataSet.cs">
+      <DependentUpon>PersistProDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="ConfigurationDataSet.xsc">
+      <DependentUpon>ConfigurationDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="ConfigurationDataSet.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+    </None>
+    <None Include="ConfigurationDataSet.xss">
+      <DependentUpon>ConfigurationDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="HistoryDataSet.xsc">
+      <DependentUpon>HistoryDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="HistoryDataSet.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+    </None>
+    <None Include="HistoryDataSet.xss">
+      <DependentUpon>HistoryDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="PersistProDataSet.xsc">
+      <DependentUpon>PersistProDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="PersistProDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="PersistProDataSet.xss">
+      <DependentUpon>PersistProDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Restore\FileInstanceRestorer.cs" />
+    <Compile Include="Restore\FileRestorer.cs" />
+    <Compile Include="Restore\FolderInstanceRestorer.cs" />
+    <Compile Include="Restore\IRestoreFactory.cs" />
+    <Compile Include="Restore\IRestorer.cs" />
+    <Compile Include="Restore\RestoreEventsArgs.cs" />
+    <Compile Include="Restore\RestoreFactory.cs" />
+    <Compile Include="Restore\RestoreManager.cs" />
+    <Compile Include="WcfProxy\IPersistProWcfProxy.cs" />
+    <Compile Include="WcfProxy\PersistProWcfProxy.cs" />
+    <Compile Include="WcfProxy\ProxyConnectionManager.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="PersistPro.sdf">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.SQL.Server.Compact.3.5">
+      <Visible>False</Visible>
+      <ProductName>SQL Server Compact 3.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Foundation\Foundation.csproj">
+      <Project>{26F13485-2660-406D-9B0A-38C956E8C1DE}</Project>
+      <Name>Foundation</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

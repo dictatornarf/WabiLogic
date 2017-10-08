@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="BackupDatabase" targetNamespace="http://tempuri.org/BackupDB.xsd" xmlns:mstns="http://tempuri.org/BackupDB.xsd" xmlns="http://tempuri.org/BackupDB.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="BackupDatabase" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="BackupDatabase" msprop:Generator_DataSetName="BackupDatabase" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Files" msprop:Generator_UserTableName="Files" msprop:Generator_RowDeletedName="FilesRowDeleted" msprop:Generator_RowChangedName="FilesRowChanged" msprop:Generator_RowClassName="FilesRow" msprop:Generator_RowChangingName="FilesRowChanging" msprop:Generator_RowEvArgName="FilesRowChangeEvent" msprop:Generator_RowEvHandlerName="FilesRowChangeEventHandler" msprop:Generator_TableClassName="FilesDataTable" msprop:Generator_TableVarName="tableFiles" msprop:Generator_RowDeletingName="FilesRowDeleting" msprop:Generator_TablePropName="Files">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Id" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="1" msprop:Generator_UserColumnName="Id" msprop:Generator_ColumnVarNameInTable="columnId" msprop:Generator_ColumnPropNameInRow="Id" msprop:Generator_ColumnPropNameInTable="IdColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="Root" msprop:Generator_UserColumnName="Root" msprop:Generator_ColumnVarNameInTable="columnRoot" msprop:Generator_ColumnPropNameInRow="Root" msprop:Generator_ColumnPropNameInTable="RootColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="FileId" msprop:Generator_UserColumnName="FileId" msprop:Generator_ColumnVarNameInTable="columnFileId" msprop:Generator_ColumnPropNameInRow="FileId" msprop:Generator_ColumnPropNameInTable="FileIdColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Hash" msprop:Generator_UserColumnName="Hash" msprop:Generator_ColumnVarNameInTable="columnHash" msprop:Generator_ColumnPropNameInRow="Hash" msprop:Generator_ColumnPropNameInTable="HashColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Size" msprop:Generator_UserColumnName="Size" msprop:Generator_ColumnVarNameInTable="columnSize" msprop:Generator_ColumnPropNameInRow="Size" msprop:Generator_ColumnPropNameInTable="SizeColumn" type="xs:long" minOccurs="0" />
+              <xs:element name="Added" msprop:Generator_UserColumnName="Added" msprop:Generator_ColumnVarNameInTable="columnAdded" msprop:Generator_ColumnPropNameInRow="Added" msprop:Generator_ColumnPropNameInTable="AddedColumn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="Updated" msprop:Generator_UserColumnName="Updated" msprop:Generator_ColumnVarNameInTable="columnUpdated" msprop:Generator_ColumnPropNameInRow="Updated" msprop:Generator_ColumnPropNameInTable="UpdatedColumn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="Deleted" msprop:Generator_UserColumnName="Deleted" msprop:Generator_ColumnVarNameInTable="columnDeleted" msprop:Generator_ColumnPropNameInRow="Deleted" msprop:Generator_ColumnPropNameInTable="DeletedColumn" type="xs:dateTime" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Roots" msprop:Generator_UserTableName="Roots" msprop:Generator_RowDeletedName="RootsRowDeleted" msprop:Generator_TableClassName="RootsDataTable" msprop:Generator_RowChangedName="RootsRowChanged" msprop:Generator_RowClassName="RootsRow" msprop:Generator_RowChangingName="RootsRowChanging" msprop:Generator_RowEvArgName="RootsRowChangeEvent" msprop:Generator_RowEvHandlerName="RootsRowChangeEventHandler" msprop:Generator_TablePropName="Roots" msprop:Generator_TableVarName="tableRoots" msprop:Generator_RowDeletingName="RootsRowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Name" msprop:Generator_UserColumnName="Name" msprop:Generator_ColumnPropNameInRow="Name" msprop:Generator_ColumnVarNameInTable="columnName" msprop:Generator_ColumnPropNameInTable="NameColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Path" msprop:Generator_UserColumnName="Path" msprop:Generator_ColumnPropNameInRow="Path" msprop:Generator_ColumnVarNameInTable="columnPath" msprop:Generator_ColumnPropNameInTable="PathColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Encrypt" msprop:Generator_UserColumnName="Encrypt" msprop:Generator_ColumnPropNameInRow="Encrypt" msprop:Generator_ColumnVarNameInTable="columnEncrypt" msprop:Generator_ColumnPropNameInTable="EncryptColumn" type="xs:boolean" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1">
+      <xs:selector xpath=".//mstns:Files" />
+      <xs:field xpath="mstns:Id" />
+    </xs:unique>
+    <xs:unique name="Roots_Constraint1" msdata:ConstraintName="Constraint1">
+      <xs:selector xpath=".//mstns:Roots" />
+      <xs:field xpath="mstns:Name" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

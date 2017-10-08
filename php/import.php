@@ -1,0 +1,22 @@
+﻿<?php
+
+include 'key.php';
+
+if (!ConfirmKey($_REQUEST["name"], $_REQUEST["key"])) {
+	echo 'Invalid Key';
+}
+else {
+
+	// open the file in a binary mode
+	$name = './img/ok.png';
+	$fp = fopen($name, 'rb');
+
+	// send the right headers
+	header("Content-Type: image/png");
+	header("Content-Length: " . filesize($name));
+
+	// dump the picture and stop the script
+	fpassthru($fp);
+	exit;
+
+?>

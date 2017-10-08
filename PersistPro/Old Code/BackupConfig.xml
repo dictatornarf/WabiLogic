@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<backup storageType="File" storageKey="C:\Users\carden\Desktop\Storage" encryptionType="Rijndael" encryptionKey="password that should be huge for safety reasons :D">
+  <roots>
+    <root name="documents" path="C:\Users\carden\Desktop\BackupTest" encrypt="true"/>
+  </roots>
+</backup>

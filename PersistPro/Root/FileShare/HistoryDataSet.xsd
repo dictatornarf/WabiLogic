@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="HistoryDataSet" targetNamespace="http://tempuri.org/HistoryDataSet.xsd" xmlns:mstns="http://tempuri.org/HistoryDataSet.xsd" xmlns="http://tempuri.org/HistoryDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="HistoryDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="HistoryDataSet" msprop:Generator_DataSetName="HistoryDataSet" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="History" msprop:Generator_UserTableName="History" msprop:Generator_RowDeletedName="HistoryRowDeleted" msprop:Generator_RowChangedName="HistoryRowChanged" msprop:Generator_RowClassName="HistoryRow" msprop:Generator_RowChangingName="HistoryRowChanging" msprop:Generator_RowEvArgName="HistoryRowChangeEvent" msprop:Generator_RowEvHandlerName="HistoryRowChangeEventHandler" msprop:Generator_TableClassName="HistoryDataTable" msprop:Generator_TableVarName="tableHistory" msprop:Generator_RowDeletingName="HistoryRowDeleting" msprop:Generator_TablePropName="History">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="HistoryId" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="1" msprop:Generator_UserColumnName="HistoryId" msprop:Generator_ColumnVarNameInTable="columnHistoryId" msprop:Generator_ColumnPropNameInRow="HistoryId" msprop:Generator_ColumnPropNameInTable="HistoryIdColumn" type="xs:int" />
+              <xs:element name="ScheduleId" msprop:Generator_UserColumnName="ScheduleId" msprop:Generator_ColumnVarNameInTable="columnScheduleId" msprop:Generator_ColumnPropNameInRow="ScheduleId" msprop:Generator_ColumnPropNameInTable="ScheduleIdColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="Status" msdata:DataType="OnlineBackupUtility.Backup.HistoryStatus, OnlineBackupUtility, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" msprop:Generator_UserColumnName="Status" msprop:Generator_ColumnVarNameInTable="columnStatus" msprop:Generator_ColumnPropNameInRow="Status" msprop:Generator_ColumnPropNameInTable="StatusColumn" type="xs:anyType" minOccurs="0" />
+              <xs:element name="ScheduleDate" msprop:Generator_UserColumnName="ScheduleDate" msprop:Generator_ColumnVarNameInTable="columnScheduleDate" msprop:Generator_ColumnPropNameInRow="ScheduleDate" msprop:Generator_ColumnPropNameInTable="ScheduleDateColumn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="PromptAgainAt" msprop:Generator_UserColumnName="PromptAgainAt" msprop:Generator_ColumnVarNameInTable="columnPromptAgainAt" msprop:Generator_ColumnPropNameInRow="PromptAgainAt" msprop:Generator_ColumnPropNameInTable="PromptAgainAtColumn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="BeginBackupDate" msprop:Generator_UserColumnName="BeginBackupDate" msprop:Generator_ColumnPropNameInRow="BeginBackupDate" msprop:Generator_ColumnVarNameInTable="columnBeginBackupDate" msprop:Generator_ColumnPropNameInTable="BeginBackupDateColumn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="FinishBackupDate" msprop:Generator_UserColumnName="FinishBackupDate" msprop:Generator_ColumnPropNameInRow="FinishBackupDate" msprop:Generator_ColumnVarNameInTable="columnFinishBackupDate" msprop:Generator_ColumnPropNameInTable="FinishBackupDateColumn" type="xs:dateTime" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:History" />
+      <xs:field xpath="mstns:HistoryId" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

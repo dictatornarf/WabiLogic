@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\carden\Documents\Visual Studio 2008\Projects\WabiLogic\UnitTests\BackupTest.nunit" total="2" failures="0" not-run="0" date="2009-01-10" time="10:42:25">
+  <environment nunit-version="2.4.7.0" clr-version="2.0.50727.3053" os-version="Microsoft Windows NT 6.0.6001 Service Pack 1" platform="Win32NT" cwd="C:\Program Files\NUnit 2.4.7\bin" machine-name="DICTATOR" user="carden" user-domain="Dictator" />
+  <culture-info current-culture="en-US" current-uiculture="en-US" />
+  <test-suite name="C:\Users\carden\Documents\Visual Studio 2008\Projects\WabiLogic\UnitTests\BackupTest.nunit" success="True" time="0.876" asserts="0">
+    <results>
+      <test-suite name="C:\Users\carden\Documents\Visual Studio 2008\Projects\WabiLogic\UnitTests\bin\Debug\UnitTests.exe" success="True" time="0.871" asserts="0">
+        <results>
+          <test-suite name="UnitTests" success="True" time="0.870" asserts="0">
+            <results>
+              <test-suite name="DateTest" success="True" time="0.024" asserts="0">
+                <results>
+                  <test-case name="UnitTests.DateTest.TestFindDate" executed="True" success="True" time="0.013" asserts="7" />
+                </results>
+              </test-suite>
+              <test-suite name="Storage" success="True" time="0.813" asserts="0">
+                <results>
+                  <test-suite name="BasicBase" success="True" time="0.812" asserts="0">
+                    <results>
+                      <test-suite name="BasicBaseTest" success="True" time="0.808" asserts="0">
+                        <results>
+                          <test-case name="UnitTests.Storage.BasicBase.BasicBaseTest.TestFolders" executed="True" success="True" time="0.808" asserts="75" />
+                        </results>
+                      </test-suite>
+                    </results>
+                  </test-suite>
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

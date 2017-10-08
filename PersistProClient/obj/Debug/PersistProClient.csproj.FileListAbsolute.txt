@@ -1,0 +1,257 @@
+C:\Users\carden\Documents\Visual Studio 2008\Projects\OnlineBackupUtility\PersistProClient\bin\Debug\PersistProClient.exe
+C:\Users\carden\Documents\Visual Studio 2008\Projects\OnlineBackupUtility\PersistProClient\bin\Debug\PersistProClient.pdb
+C:\Users\carden\Documents\Visual Studio 2008\Projects\OnlineBackupUtility\PersistProClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\carden\Documents\Visual Studio 2008\Projects\OnlineBackupUtility\PersistProClient\obj\Debug\PersistProClient.PersistPro.resources
+C:\Users\carden\Documents\Visual Studio 2008\Projects\OnlineBackupUtility\PersistProClient\obj\Debug\PersistProClient.PlanEdit.resources
+C:\Users\carden\Documents\Visual Studio 2008\Projects\OnlineBackupUtility\PersistProClient\obj\Debug\PersistProClient.Properties.Resources.resources
+C:\Users\carden\Documents\Visual Studio 2008\Projects\OnlineBackupUtility\PersistProClient\obj\Debug\PersistProClient.RootEdit.resources
+C:\Users\carden\Documents\Visual Studio 2008\Projects\OnlineBackupUtility\PersistProClient\obj\Debug\PersistProClient.RootNameFilterEdit.resources
+C:\Users\carden\Documents\Visual Studio 2008\Projects\OnlineBackupUtility\PersistProClient\obj\Debug\PersistProClient.ScheduleEdit.resources
+C:\Users\carden\Documents\Visual Studio 2008\Projects\OnlineBackupUtility\PersistProClient\obj\Debug\PersistProClient.csproj.GenerateResource.Cache
+C:\Users\carden\Documents\Visual Studio 2008\Projects\OnlineBackupUtility\PersistProClient\obj\Debug\PersistProClient.exe
+C:\Users\carden\Documents\Visual Studio 2008\Projects\OnlineBackupUtility\PersistProClient\obj\Debug\PersistProClient.pdb
+C:\Users\carden\Documents\Visual Studio 2008\Projects\OnlineBackupUtility\PersistProClient\obj\Debug\PersistProClient.RootManagerEdit.resources
+C:\Users\carden\Documents\Visual Studio 2008\Projects\OnlineBackupUtility\PersistProClient\obj\Debug\PersistProClient.ScheduleManagerEdit.resources
+C:\Users\carden\Documents\Visual Studio 2008\Projects\OnlineBackupUtility\PersistProClient\obj\Debug\PersistProClient.PlanManagerEditOld.resources
+C:\Users\carden\Documents\Visual Studio 2008\Projects\OnlineBackupUtility\PersistProClient\obj\Debug\PersistProClient.PlanManagerEditItemOld.resources
+C:\Users\carden\Documents\Visual Studio 2008\Projects\OnlineBackupUtility\PersistProClient\obj\Debug\PersistProClient.PlanManagerEdit.resources
+C:\Users\carden\Documents\Visual Studio 2008\Projects\OnlineBackupUtility\PersistProClient\obj\Debug\PersistProClient.MountManagerEdit.resources
+C:\Users\carden\Documents\Visual Studio 2008\Projects\OnlineBackupUtility\PersistProClient\obj\Debug\PersistProClient.FileMountEdit.resources
+C:\Users\carden\Documents\Visual Studio 2008\Projects\OnlineBackupUtility\PersistProClient\obj\Debug\PersistProClient.PersistProManager.resources
+C:\Users\carden\Documents\Visual Studio 2008\Projects\OnlineBackupUtility\PersistProClient\obj\Debug\PersistProClient.RootAttributeFilterEdit.resources
+C:\Documents and Settings\$vpbc\Desktop\OnlineBackupUtility\PersistProClient\obj\Debug\PersistProClient.exe
+C:\Documents and Settings\$vpbc\Desktop\OnlineBackupUtility\PersistProClient\obj\Debug\PersistProClient.pdb
+C:\Users\carden\Documents\Visual Studio 2008\Projects\OnlineBackupUtility\PersistProClient\bin\Debug\PersistPro.sdf
+C:\Users\carden\Documents\Visual Studio 2008\Projects\OnlineBackupUtility\PersistProClient\bin\Debug\PersistPro.dll
+C:\Users\carden\Documents\Visual Studio 2008\Projects\OnlineBackupUtility\PersistProClient\bin\Debug\WabiLogic.Foundation.dll
+C:\Users\carden\Documents\Visual Studio 2008\Projects\OnlineBackupUtility\PersistProClient\bin\Debug\PersistPro.pdb
+C:\Users\carden\Documents\Visual Studio 2008\Projects\OnlineBackupUtility\PersistProClient\bin\Debug\WabiLogic.Foundation.pdb
+C:\Documents and Settings\$vpbc\Desktop\WabiLogic Ben\PersistProClient\obj\Debug\PersistProClient.exe
+C:\Documents and Settings\$vpbc\Desktop\WabiLogic Ben\PersistProClient\obj\Debug\PersistProClient.pdb
+C:\Documents and Settings\$vpbc\Desktop\WabiLogic Ben\PersistProClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\$vpbc\Desktop\WabiLogic Ben\PersistProClient\obj\Debug\PersistProClient.ExternalDriveMountEdit.resources
+C:\Documents and Settings\$vpbc\Desktop\WabiLogic Ben\PersistProClient\obj\Debug\PersistProClient.FileMountEdit.resources
+C:\Documents and Settings\$vpbc\Desktop\WabiLogic Ben\PersistProClient\obj\Debug\PersistProClient.MountManagerEdit.resources
+C:\Documents and Settings\$vpbc\Desktop\WabiLogic Ben\PersistProClient\obj\Debug\PersistProClient.PersistPro.resources
+C:\Documents and Settings\$vpbc\Desktop\WabiLogic Ben\PersistProClient\obj\Debug\PersistProClient.PersistProControlBase.resources
+C:\Documents and Settings\$vpbc\Desktop\WabiLogic Ben\PersistProClient\obj\Debug\PersistProClient.PersistProManager.resources
+C:\Documents and Settings\$vpbc\Desktop\WabiLogic Ben\PersistProClient\obj\Debug\PersistProClient.PlanEdit.resources
+C:\Documents and Settings\$vpbc\Desktop\WabiLogic Ben\PersistProClient\obj\Debug\PersistProClient.PlanManagerEdit.resources
+C:\Documents and Settings\$vpbc\Desktop\WabiLogic Ben\PersistProClient\obj\Debug\PersistProClient.Properties.Resources.resources
+C:\Documents and Settings\$vpbc\Desktop\WabiLogic Ben\PersistProClient\obj\Debug\PersistProClient.RestoreBrowser.resources
+C:\Documents and Settings\$vpbc\Desktop\WabiLogic Ben\PersistProClient\obj\Debug\PersistProClient.RestoreManager.resources
+C:\Documents and Settings\$vpbc\Desktop\WabiLogic Ben\PersistProClient\obj\Debug\PersistProClient.RestoreQuick.resources
+C:\Documents and Settings\$vpbc\Desktop\WabiLogic Ben\PersistProClient\obj\Debug\PersistProClient.RootAttributeFilterEdit.resources
+C:\Documents and Settings\$vpbc\Desktop\WabiLogic Ben\PersistProClient\obj\Debug\PersistProClient.RootEdit.resources
+C:\Documents and Settings\$vpbc\Desktop\WabiLogic Ben\PersistProClient\obj\Debug\PersistProClient.RootManagerEdit.resources
+C:\Documents and Settings\$vpbc\Desktop\WabiLogic Ben\PersistProClient\obj\Debug\PersistProClient.RootNameFilterEdit.resources
+C:\Documents and Settings\$vpbc\Desktop\WabiLogic Ben\PersistProClient\obj\Debug\PersistProClient.ScheduleEdit.resources
+C:\Documents and Settings\$vpbc\Desktop\WabiLogic Ben\PersistProClient\obj\Debug\PersistProClient.ScheduleManagerEdit.resources
+C:\Documents and Settings\$vpbc\Desktop\WabiLogic Ben\PersistProClient\obj\Debug\PersistProClient.StatusView.resources
+C:\Documents and Settings\$vpbc\Desktop\WabiLogic Ben\PersistProClient\obj\Debug\PersistProClient.csproj.GenerateResource.Cache
+C:\Documents and Settings\$vpbc\Desktop\WabiLogic Ben\PersistProClient\bin\Debug\PersistPro.sdf
+C:\Documents and Settings\$vpbc\Desktop\WabiLogic Ben\PersistProClient\bin\Debug\PersistProClient.exe
+C:\Documents and Settings\$vpbc\Desktop\WabiLogic Ben\PersistProClient\bin\Debug\PersistProClient.pdb
+C:\Documents and Settings\$vpbc\Desktop\WabiLogic Ben\PersistProClient\bin\Debug\PersistPro.dll
+C:\Documents and Settings\$vpbc\Desktop\WabiLogic Ben\PersistProClient\bin\Debug\WabiLogic.Foundation.dll
+C:\Documents and Settings\$vpbc\Desktop\WabiLogic Ben\PersistProClient\bin\Debug\PersistPro.pdb
+C:\Documents and Settings\$vpbc\Desktop\WabiLogic Ben\PersistProClient\bin\Debug\WabiLogic.Foundation.pdb
+C:\Users\Owner\Documents\WabiLogic\Code\WabiLogic\WabiLogic\PersistProClient\bin\Debug\PersistPro.sdf
+C:\Users\Owner\Documents\WabiLogic\Code\WabiLogic\WabiLogic\PersistProClient\bin\Debug\PersistProClient.exe
+C:\Users\Owner\Documents\WabiLogic\Code\WabiLogic\WabiLogic\PersistProClient\bin\Debug\PersistProClient.pdb
+C:\Users\Owner\Documents\WabiLogic\Code\WabiLogic\WabiLogic\PersistProClient\bin\Debug\PersistPro.dll
+C:\Users\Owner\Documents\WabiLogic\Code\WabiLogic\WabiLogic\PersistProClient\bin\Debug\WabiLogic.Foundation.dll
+C:\Users\Owner\Documents\WabiLogic\Code\WabiLogic\WabiLogic\PersistProClient\bin\Debug\PersistPro.pdb
+C:\Users\Owner\Documents\WabiLogic\Code\WabiLogic\WabiLogic\PersistProClient\bin\Debug\WabiLogic.Foundation.pdb
+C:\Users\Owner\Documents\WabiLogic\Code\WabiLogic\WabiLogic\PersistProClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Owner\Documents\WabiLogic\Code\WabiLogic\WabiLogic\PersistProClient\obj\Debug\PersistProClient.ExternalDriveMountEdit.resources
+C:\Users\Owner\Documents\WabiLogic\Code\WabiLogic\WabiLogic\PersistProClient\obj\Debug\PersistProClient.FileMountEdit.resources
+C:\Users\Owner\Documents\WabiLogic\Code\WabiLogic\WabiLogic\PersistProClient\obj\Debug\PersistProClient.MountManagerEdit.resources
+C:\Users\Owner\Documents\WabiLogic\Code\WabiLogic\WabiLogic\PersistProClient\obj\Debug\PersistProClient.PersistPro.resources
+C:\Users\Owner\Documents\WabiLogic\Code\WabiLogic\WabiLogic\PersistProClient\obj\Debug\PersistProClient.PersistProControlBase.resources
+C:\Users\Owner\Documents\WabiLogic\Code\WabiLogic\WabiLogic\PersistProClient\obj\Debug\PersistProClient.PersistProManager.resources
+C:\Users\Owner\Documents\WabiLogic\Code\WabiLogic\WabiLogic\PersistProClient\obj\Debug\PersistProClient.PlanEdit.resources
+C:\Users\Owner\Documents\WabiLogic\Code\WabiLogic\WabiLogic\PersistProClient\obj\Debug\PersistProClient.PlanManagerEdit.resources
+C:\Users\Owner\Documents\WabiLogic\Code\WabiLogic\WabiLogic\PersistProClient\obj\Debug\PersistProClient.Properties.Resources.resources
+C:\Users\Owner\Documents\WabiLogic\Code\WabiLogic\WabiLogic\PersistProClient\obj\Debug\PersistProClient.RestoreBrowser.resources
+C:\Users\Owner\Documents\WabiLogic\Code\WabiLogic\WabiLogic\PersistProClient\obj\Debug\PersistProClient.RestoreManager.resources
+C:\Users\Owner\Documents\WabiLogic\Code\WabiLogic\WabiLogic\PersistProClient\obj\Debug\PersistProClient.RestoreQuick.resources
+C:\Users\Owner\Documents\WabiLogic\Code\WabiLogic\WabiLogic\PersistProClient\obj\Debug\PersistProClient.RootAttributeFilterEdit.resources
+C:\Users\Owner\Documents\WabiLogic\Code\WabiLogic\WabiLogic\PersistProClient\obj\Debug\PersistProClient.RootEdit.resources
+C:\Users\Owner\Documents\WabiLogic\Code\WabiLogic\WabiLogic\PersistProClient\obj\Debug\PersistProClient.RootManagerEdit.resources
+C:\Users\Owner\Documents\WabiLogic\Code\WabiLogic\WabiLogic\PersistProClient\obj\Debug\PersistProClient.RootNameFilterEdit.resources
+C:\Users\Owner\Documents\WabiLogic\Code\WabiLogic\WabiLogic\PersistProClient\obj\Debug\PersistProClient.ScheduleEdit.resources
+C:\Users\Owner\Documents\WabiLogic\Code\WabiLogic\WabiLogic\PersistProClient\obj\Debug\PersistProClient.ScheduleManagerEdit.resources
+C:\Users\Owner\Documents\WabiLogic\Code\WabiLogic\WabiLogic\PersistProClient\obj\Debug\PersistProClient.StatusView.resources
+C:\Users\Owner\Documents\WabiLogic\Code\WabiLogic\WabiLogic\PersistProClient\obj\Debug\PersistProClient.csproj.GenerateResource.Cache
+C:\Users\Owner\Documents\WabiLogic\Code\WabiLogic\WabiLogic\PersistProClient\obj\Debug\PersistProClient.exe
+C:\Users\Owner\Documents\WabiLogic\Code\WabiLogic\WabiLogic\PersistProClient\obj\Debug\PersistProClient.pdb
+C:\Users\carden\Desktop\WabiLogic\WabiLogic\PersistProClient\bin\Debug\PersistPro.sdf
+C:\Users\carden\Desktop\WabiLogic\WabiLogic\PersistProClient\bin\Debug\PersistProClient.exe
+C:\Users\carden\Desktop\WabiLogic\WabiLogic\PersistProClient\bin\Debug\PersistProClient.pdb
+C:\Users\carden\Desktop\WabiLogic\WabiLogic\PersistProClient\bin\Debug\PersistPro.dll
+C:\Users\carden\Desktop\WabiLogic\WabiLogic\PersistProClient\bin\Debug\WabiLogic.Foundation.dll
+C:\Users\carden\Desktop\WabiLogic\WabiLogic\PersistProClient\bin\Debug\PersistPro.pdb
+C:\Users\carden\Desktop\WabiLogic\WabiLogic\PersistProClient\bin\Debug\WabiLogic.Foundation.pdb
+C:\Users\carden\Desktop\WabiLogic\WabiLogic\PersistProClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\carden\Desktop\WabiLogic\WabiLogic\PersistProClient\obj\Debug\PersistProClient.ExternalDriveMountEdit.resources
+C:\Users\carden\Desktop\WabiLogic\WabiLogic\PersistProClient\obj\Debug\PersistProClient.FileMountEdit.resources
+C:\Users\carden\Desktop\WabiLogic\WabiLogic\PersistProClient\obj\Debug\PersistProClient.MountManagerEdit.resources
+C:\Users\carden\Desktop\WabiLogic\WabiLogic\PersistProClient\obj\Debug\PersistProClient.PersistPro.resources
+C:\Users\carden\Desktop\WabiLogic\WabiLogic\PersistProClient\obj\Debug\PersistProClient.PersistProControlBase.resources
+C:\Users\carden\Desktop\WabiLogic\WabiLogic\PersistProClient\obj\Debug\PersistProClient.PersistProManager.resources
+C:\Users\carden\Desktop\WabiLogic\WabiLogic\PersistProClient\obj\Debug\PersistProClient.PlanEdit.resources
+C:\Users\carden\Desktop\WabiLogic\WabiLogic\PersistProClient\obj\Debug\PersistProClient.PlanManagerEdit.resources
+C:\Users\carden\Desktop\WabiLogic\WabiLogic\PersistProClient\obj\Debug\PersistProClient.Properties.Resources.resources
+C:\Users\carden\Desktop\WabiLogic\WabiLogic\PersistProClient\obj\Debug\PersistProClient.RestoreBrowser.resources
+C:\Users\carden\Desktop\WabiLogic\WabiLogic\PersistProClient\obj\Debug\PersistProClient.RestoreManager.resources
+C:\Users\carden\Desktop\WabiLogic\WabiLogic\PersistProClient\obj\Debug\PersistProClient.RestoreQuick.resources
+C:\Users\carden\Desktop\WabiLogic\WabiLogic\PersistProClient\obj\Debug\PersistProClient.RootAttributeFilterEdit.resources
+C:\Users\carden\Desktop\WabiLogic\WabiLogic\PersistProClient\obj\Debug\PersistProClient.RootEdit.resources
+C:\Users\carden\Desktop\WabiLogic\WabiLogic\PersistProClient\obj\Debug\PersistProClient.RootManagerEdit.resources
+C:\Users\carden\Desktop\WabiLogic\WabiLogic\PersistProClient\obj\Debug\PersistProClient.RootNameFilterEdit.resources
+C:\Users\carden\Desktop\WabiLogic\WabiLogic\PersistProClient\obj\Debug\PersistProClient.ScheduleEdit.resources
+C:\Users\carden\Desktop\WabiLogic\WabiLogic\PersistProClient\obj\Debug\PersistProClient.ScheduleManagerEdit.resources
+C:\Users\carden\Desktop\WabiLogic\WabiLogic\PersistProClient\obj\Debug\PersistProClient.StatusView.resources
+C:\Users\carden\Desktop\WabiLogic\WabiLogic\PersistProClient\obj\Debug\PersistProClient.csproj.GenerateResource.Cache
+C:\Users\carden\Desktop\WabiLogic\WabiLogic\PersistProClient\obj\Debug\PersistProClient.exe
+C:\Users\carden\Desktop\WabiLogic\WabiLogic\PersistProClient\obj\Debug\PersistProClient.pdb
+C:\Users\carden\Documents\Visual Studio 2008\Projects\WabiLogic\PersistProClient\bin\Debug\PersistProClient.exe.config
+C:\Users\carden\Documents\Visual Studio 2008\Projects\WabiLogic\PersistProClient\bin\Debug\PersistPro.sdf
+C:\Users\carden\Documents\Visual Studio 2008\Projects\WabiLogic\PersistProClient\bin\Debug\PersistProClient.exe
+C:\Users\carden\Documents\Visual Studio 2008\Projects\WabiLogic\PersistProClient\bin\Debug\PersistProClient.pdb
+C:\Users\carden\Documents\Visual Studio 2008\Projects\WabiLogic\PersistProClient\bin\Debug\PersistPro.dll
+C:\Users\carden\Documents\Visual Studio 2008\Projects\WabiLogic\PersistProClient\bin\Debug\WabiLogic.Foundation.dll
+C:\Users\carden\Documents\Visual Studio 2008\Projects\WabiLogic\PersistProClient\bin\Debug\PersistPro.pdb
+C:\Users\carden\Documents\Visual Studio 2008\Projects\WabiLogic\PersistProClient\bin\Debug\WabiLogic.Foundation.pdb
+C:\Users\carden\Documents\Visual Studio 2008\Projects\WabiLogic\PersistProClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\carden\Documents\Visual Studio 2008\Projects\WabiLogic\PersistProClient\obj\Debug\PersistProClient.Configure.resources
+C:\Users\carden\Documents\Visual Studio 2008\Projects\WabiLogic\PersistProClient\obj\Debug\PersistProClient.ExternalDriveMountEdit.resources
+C:\Users\carden\Documents\Visual Studio 2008\Projects\WabiLogic\PersistProClient\obj\Debug\PersistProClient.FileMountEdit.resources
+C:\Users\carden\Documents\Visual Studio 2008\Projects\WabiLogic\PersistProClient\obj\Debug\PersistProClient.FtpMountEdit.resources
+C:\Users\carden\Documents\Visual Studio 2008\Projects\WabiLogic\PersistProClient\obj\Debug\PersistProClient.MountManagerEdit.resources
+C:\Users\carden\Documents\Visual Studio 2008\Projects\WabiLogic\PersistProClient\obj\Debug\PersistProClient.PersistPro.resources
+C:\Users\carden\Documents\Visual Studio 2008\Projects\WabiLogic\PersistProClient\obj\Debug\PersistProClient.PersistProControlBase.resources
+C:\Users\carden\Documents\Visual Studio 2008\Projects\WabiLogic\PersistProClient\obj\Debug\PersistProClient.PersistProManager.resources
+C:\Users\carden\Documents\Visual Studio 2008\Projects\WabiLogic\PersistProClient\obj\Debug\PersistProClient.PlanEdit.resources
+C:\Users\carden\Documents\Visual Studio 2008\Projects\WabiLogic\PersistProClient\obj\Debug\PersistProClient.PlanManagerEdit.resources
+C:\Users\carden\Documents\Visual Studio 2008\Projects\WabiLogic\PersistProClient\obj\Debug\PersistProClient.Properties.Resources.resources
+C:\Users\carden\Documents\Visual Studio 2008\Projects\WabiLogic\PersistProClient\obj\Debug\PersistProClient.RegisterSplash.resources
+C:\Users\carden\Documents\Visual Studio 2008\Projects\WabiLogic\PersistProClient\obj\Debug\PersistProClient.RestoreBrowser.resources
+C:\Users\carden\Documents\Visual Studio 2008\Projects\WabiLogic\PersistProClient\obj\Debug\PersistProClient.RestoreManager.resources
+C:\Users\carden\Documents\Visual Studio 2008\Projects\WabiLogic\PersistProClient\obj\Debug\PersistProClient.RestoreQuick.resources
+C:\Users\carden\Documents\Visual Studio 2008\Projects\WabiLogic\PersistProClient\obj\Debug\PersistProClient.RootAttributeFilterEdit.resources
+C:\Users\carden\Documents\Visual Studio 2008\Projects\WabiLogic\PersistProClient\obj\Debug\PersistProClient.RootEdit.resources
+C:\Users\carden\Documents\Visual Studio 2008\Projects\WabiLogic\PersistProClient\obj\Debug\PersistProClient.RootManagerEdit.resources
+C:\Users\carden\Documents\Visual Studio 2008\Projects\WabiLogic\PersistProClient\obj\Debug\PersistProClient.RootNameFilterEdit.resources
+C:\Users\carden\Documents\Visual Studio 2008\Projects\WabiLogic\PersistProClient\obj\Debug\PersistProClient.ScheduleEdit.resources
+C:\Users\carden\Documents\Visual Studio 2008\Projects\WabiLogic\PersistProClient\obj\Debug\PersistProClient.ScheduleManagerEdit.resources
+C:\Users\carden\Documents\Visual Studio 2008\Projects\WabiLogic\PersistProClient\obj\Debug\PersistProClient.StatusView.resources
+C:\Users\carden\Documents\Visual Studio 2008\Projects\WabiLogic\PersistProClient\obj\Debug\PersistProClient.csproj.GenerateResource.Cache
+C:\Users\carden\Documents\Visual Studio 2008\Projects\WabiLogic\PersistProClient\obj\Debug\PersistProClient.exe
+C:\Users\carden\Documents\Visual Studio 2008\Projects\WabiLogic\PersistProClient\obj\Debug\PersistProClient.pdb
+C:\Users\Owner\Desktop\Ben -WabiLogic-1\WabiLogic\PersistProClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Owner\Desktop\Ben -WabiLogic-1\WabiLogic\PersistProClient\obj\Debug\PersistProClient.Configure.resources
+C:\Users\Owner\Desktop\Ben -WabiLogic-1\WabiLogic\PersistProClient\obj\Debug\PersistProClient.ExternalDriveMountEdit.resources
+C:\Users\Owner\Desktop\Ben -WabiLogic-1\WabiLogic\PersistProClient\obj\Debug\PersistProClient.FileMountEdit.resources
+C:\Users\Owner\Desktop\Ben -WabiLogic-1\WabiLogic\PersistProClient\obj\Debug\PersistProClient.FtpMountEdit.resources
+C:\Users\Owner\Desktop\Ben -WabiLogic-1\WabiLogic\PersistProClient\obj\Debug\PersistProClient.MountManagerEdit.resources
+C:\Users\Owner\Desktop\Ben -WabiLogic-1\WabiLogic\PersistProClient\obj\Debug\PersistProClient.PersistPro.resources
+C:\Users\Owner\Desktop\Ben -WabiLogic-1\WabiLogic\PersistProClient\obj\Debug\PersistProClient.PersistProControlBase.resources
+C:\Users\Owner\Desktop\Ben -WabiLogic-1\WabiLogic\PersistProClient\obj\Debug\PersistProClient.PersistProManager.resources
+C:\Users\Owner\Desktop\Ben -WabiLogic-1\WabiLogic\PersistProClient\obj\Debug\PersistProClient.PlanEdit.resources
+C:\Users\Owner\Desktop\Ben -WabiLogic-1\WabiLogic\PersistProClient\obj\Debug\PersistProClient.PlanManagerEdit.resources
+C:\Users\Owner\Desktop\Ben -WabiLogic-1\WabiLogic\PersistProClient\obj\Debug\PersistProClient.Properties.Resources.resources
+C:\Users\Owner\Desktop\Ben -WabiLogic-1\WabiLogic\PersistProClient\obj\Debug\PersistProClient.RegisterSplash.resources
+C:\Users\Owner\Desktop\Ben -WabiLogic-1\WabiLogic\PersistProClient\obj\Debug\PersistProClient.RestoreBrowser.resources
+C:\Users\Owner\Desktop\Ben -WabiLogic-1\WabiLogic\PersistProClient\obj\Debug\PersistProClient.RestoreProgress.resources
+C:\Users\Owner\Desktop\Ben -WabiLogic-1\WabiLogic\PersistProClient\obj\Debug\PersistProClient.RestoreQuick.resources
+C:\Users\Owner\Desktop\Ben -WabiLogic-1\WabiLogic\PersistProClient\obj\Debug\PersistProClient.RestoreSelector.resources
+C:\Users\Owner\Desktop\Ben -WabiLogic-1\WabiLogic\PersistProClient\obj\Debug\PersistProClient.RootAttributeFilterEdit.resources
+C:\Users\Owner\Desktop\Ben -WabiLogic-1\WabiLogic\PersistProClient\obj\Debug\PersistProClient.RootEdit.resources
+C:\Users\Owner\Desktop\Ben -WabiLogic-1\WabiLogic\PersistProClient\obj\Debug\PersistProClient.RootManagerEdit.resources
+C:\Users\Owner\Desktop\Ben -WabiLogic-1\WabiLogic\PersistProClient\obj\Debug\PersistProClient.RootNameFilterEdit.resources
+C:\Users\Owner\Desktop\Ben -WabiLogic-1\WabiLogic\PersistProClient\obj\Debug\PersistProClient.ScheduleEdit.resources
+C:\Users\Owner\Desktop\Ben -WabiLogic-1\WabiLogic\PersistProClient\obj\Debug\PersistProClient.ScheduleManagerEdit.resources
+C:\Users\Owner\Desktop\Ben -WabiLogic-1\WabiLogic\PersistProClient\obj\Debug\PersistProClient.StatusView.resources
+C:\Users\Owner\Desktop\Ben -WabiLogic-1\WabiLogic\PersistProClient\obj\Debug\PersistProClient.csproj.GenerateResource.Cache
+C:\Users\Owner\Desktop\Ben -WabiLogic-1\WabiLogic\PersistProClient\obj\Debug\PersistProClient.exe
+C:\Users\Owner\Desktop\Ben -WabiLogic-1\WabiLogic\PersistProClient\obj\Debug\PersistProClient.pdb
+C:\Users\Owner\Desktop\Ben -WabiLogic-1\WabiLogic\PersistProClient\bin\Debug\PersistPro.sdf
+C:\Users\Owner\Desktop\Ben -WabiLogic-1\WabiLogic\PersistProClient\bin\Debug\PersistProClient.exe.config
+C:\Users\Owner\Desktop\Ben -WabiLogic-1\WabiLogic\PersistProClient\bin\Debug\PersistProClient.exe
+C:\Users\Owner\Desktop\Ben -WabiLogic-1\WabiLogic\PersistProClient\bin\Debug\PersistProClient.pdb
+C:\Users\Owner\Desktop\Ben -WabiLogic-1\WabiLogic\PersistProClient\bin\Debug\PersistPro.dll
+C:\Users\Owner\Desktop\Ben -WabiLogic-1\WabiLogic\PersistProClient\bin\Debug\WabiLogic.Foundation.dll
+C:\Users\Owner\Desktop\Ben -WabiLogic-1\WabiLogic\PersistProClient\bin\Debug\PersistPro.pdb
+C:\Users\Owner\Desktop\Ben -WabiLogic-1\WabiLogic\PersistProClient\bin\Debug\WabiLogic.Foundation.pdb
+C:\Users\Owner\Documents\WabiLogic\Code\WabiLogic\PersistProClient\bin\Debug\PersistProClient.exe.config
+C:\Users\Owner\Documents\WabiLogic\Code\WabiLogic\PersistProClient\obj\Debug\PersistProClient.exe
+C:\Users\Owner\Documents\WabiLogic\Code\WabiLogic\PersistProClient\obj\Debug\PersistProClient.pdb
+C:\Users\Owner\Documents\WabiLogic\Code\WabiLogic\PersistProClient\bin\Debug\PersistPro.sdf
+C:\Users\Owner\Documents\WabiLogic\Code\WabiLogic\PersistProClient\bin\Debug\PersistProClient.exe
+C:\Users\Owner\Documents\WabiLogic\Code\WabiLogic\PersistProClient\bin\Debug\PersistProClient.pdb
+C:\Users\Owner\Documents\WabiLogic\Code\WabiLogic\PersistProClient\bin\Debug\PersistPro.dll
+C:\Users\Owner\Documents\WabiLogic\Code\WabiLogic\PersistProClient\bin\Debug\WabiLogic.Foundation.dll
+C:\Users\Owner\Documents\WabiLogic\Code\WabiLogic\PersistProClient\bin\Debug\PersistPro.pdb
+C:\Users\Owner\Documents\WabiLogic\Code\WabiLogic\PersistProClient\bin\Debug\WabiLogic.Foundation.pdb
+C:\Users\Owner\Documents\WabiLogic\Code\WabiLogic\PersistProClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Owner\Documents\WabiLogic\Code\WabiLogic\PersistProClient\obj\Debug\PersistProClient.Configure.resources
+C:\Users\Owner\Documents\WabiLogic\Code\WabiLogic\PersistProClient\obj\Debug\PersistProClient.ExternalDriveMountEdit.resources
+C:\Users\Owner\Documents\WabiLogic\Code\WabiLogic\PersistProClient\obj\Debug\PersistProClient.FileMountEdit.resources
+C:\Users\Owner\Documents\WabiLogic\Code\WabiLogic\PersistProClient\obj\Debug\PersistProClient.FtpMountEdit.resources
+C:\Users\Owner\Documents\WabiLogic\Code\WabiLogic\PersistProClient\obj\Debug\PersistProClient.MountManagerEdit.resources
+C:\Users\Owner\Documents\WabiLogic\Code\WabiLogic\PersistProClient\obj\Debug\PersistProClient.PersistPro.resources
+C:\Users\Owner\Documents\WabiLogic\Code\WabiLogic\PersistProClient\obj\Debug\PersistProClient.PersistProControlBase.resources
+C:\Users\Owner\Documents\WabiLogic\Code\WabiLogic\PersistProClient\obj\Debug\PersistProClient.PersistProManager.resources
+C:\Users\Owner\Documents\WabiLogic\Code\WabiLogic\PersistProClient\obj\Debug\PersistProClient.PlanEdit.resources
+C:\Users\Owner\Documents\WabiLogic\Code\WabiLogic\PersistProClient\obj\Debug\PersistProClient.PlanManagerEdit.resources
+C:\Users\Owner\Documents\WabiLogic\Code\WabiLogic\PersistProClient\obj\Debug\PersistProClient.Properties.Resources.resources
+C:\Users\Owner\Documents\WabiLogic\Code\WabiLogic\PersistProClient\obj\Debug\PersistProClient.RegisterSplash.resources
+C:\Users\Owner\Documents\WabiLogic\Code\WabiLogic\PersistProClient\obj\Debug\PersistProClient.RestoreBrowser.resources
+C:\Users\Owner\Documents\WabiLogic\Code\WabiLogic\PersistProClient\obj\Debug\PersistProClient.RestoreProgress.resources
+C:\Users\Owner\Documents\WabiLogic\Code\WabiLogic\PersistProClient\obj\Debug\PersistProClient.RestoreQuick.resources
+C:\Users\Owner\Documents\WabiLogic\Code\WabiLogic\PersistProClient\obj\Debug\PersistProClient.RestoreSelector.resources
+C:\Users\Owner\Documents\WabiLogic\Code\WabiLogic\PersistProClient\obj\Debug\PersistProClient.RootAttributeFilterEdit.resources
+C:\Users\Owner\Documents\WabiLogic\Code\WabiLogic\PersistProClient\obj\Debug\PersistProClient.RootEdit.resources
+C:\Users\Owner\Documents\WabiLogic\Code\WabiLogic\PersistProClient\obj\Debug\PersistProClient.RootManagerEdit.resources
+C:\Users\Owner\Documents\WabiLogic\Code\WabiLogic\PersistProClient\obj\Debug\PersistProClient.RootNameFilterEdit.resources
+C:\Users\Owner\Documents\WabiLogic\Code\WabiLogic\PersistProClient\obj\Debug\PersistProClient.ScheduleEdit.resources
+C:\Users\Owner\Documents\WabiLogic\Code\WabiLogic\PersistProClient\obj\Debug\PersistProClient.ScheduleManagerEdit.resources
+C:\Users\Owner\Documents\WabiLogic\Code\WabiLogic\PersistProClient\obj\Debug\PersistProClient.StatusView.resources
+C:\Users\Owner\Documents\WabiLogic\Code\WabiLogic\PersistProClient\obj\Debug\PersistProClient.csproj.GenerateResource.Cache
+C:\Users\dicta_000\Source\Repos\WabiLogic\PersistProClient\bin\Debug\PersistPro.sdf
+C:\Users\dicta_000\Source\Repos\WabiLogic\PersistProClient\bin\Debug\PersistProClient.exe.config
+C:\Users\dicta_000\Source\Repos\WabiLogic\PersistProClient\bin\Debug\PersistProClient.exe
+C:\Users\dicta_000\Source\Repos\WabiLogic\PersistProClient\bin\Debug\PersistProClient.pdb
+C:\Users\dicta_000\Source\Repos\WabiLogic\PersistProClient\bin\Debug\PersistPro.dll
+C:\Users\dicta_000\Source\Repos\WabiLogic\PersistProClient\bin\Debug\WabiLogic.Foundation.dll
+C:\Users\dicta_000\Source\Repos\WabiLogic\PersistProClient\bin\Debug\WabiLogic.Foundation.pdb
+C:\Users\dicta_000\Source\Repos\WabiLogic\PersistProClient\bin\Debug\PersistPro.pdb
+C:\Users\dicta_000\Source\Repos\WabiLogic\PersistProClient\obj\Debug\PersistProClient.csprojResolveAssemblyReference.cache
+C:\Users\dicta_000\Source\Repos\WabiLogic\PersistProClient\obj\Debug\PersistProClient.Configure.resources
+C:\Users\dicta_000\Source\Repos\WabiLogic\PersistProClient\obj\Debug\PersistProClient.ExternalDriveMountEdit.resources
+C:\Users\dicta_000\Source\Repos\WabiLogic\PersistProClient\obj\Debug\PersistProClient.FileMountEdit.resources
+C:\Users\dicta_000\Source\Repos\WabiLogic\PersistProClient\obj\Debug\PersistProClient.FtpMountEdit.resources
+C:\Users\dicta_000\Source\Repos\WabiLogic\PersistProClient\obj\Debug\PersistProClient.MountManagerEdit.resources
+C:\Users\dicta_000\Source\Repos\WabiLogic\PersistProClient\obj\Debug\PersistProClient.PersistPro.resources
+C:\Users\dicta_000\Source\Repos\WabiLogic\PersistProClient\obj\Debug\PersistProClient.PersistProControlBase.resources
+C:\Users\dicta_000\Source\Repos\WabiLogic\PersistProClient\obj\Debug\PersistProClient.PersistProManager.resources
+C:\Users\dicta_000\Source\Repos\WabiLogic\PersistProClient\obj\Debug\PersistProClient.PlanEdit.resources
+C:\Users\dicta_000\Source\Repos\WabiLogic\PersistProClient\obj\Debug\PersistProClient.PlanManagerEdit.resources
+C:\Users\dicta_000\Source\Repos\WabiLogic\PersistProClient\obj\Debug\PersistProClient.Properties.Resources.resources
+C:\Users\dicta_000\Source\Repos\WabiLogic\PersistProClient\obj\Debug\PersistProClient.RegisterSplash.resources
+C:\Users\dicta_000\Source\Repos\WabiLogic\PersistProClient\obj\Debug\PersistProClient.RestoreBrowser.resources
+C:\Users\dicta_000\Source\Repos\WabiLogic\PersistProClient\obj\Debug\PersistProClient.RestoreProgress.resources
+C:\Users\dicta_000\Source\Repos\WabiLogic\PersistProClient\obj\Debug\PersistProClient.RestoreQuick.resources
+C:\Users\dicta_000\Source\Repos\WabiLogic\PersistProClient\obj\Debug\PersistProClient.RestoreSelector.resources
+C:\Users\dicta_000\Source\Repos\WabiLogic\PersistProClient\obj\Debug\PersistProClient.RootAttributeFilterEdit.resources
+C:\Users\dicta_000\Source\Repos\WabiLogic\PersistProClient\obj\Debug\PersistProClient.RootEdit.resources
+C:\Users\dicta_000\Source\Repos\WabiLogic\PersistProClient\obj\Debug\PersistProClient.RootManagerEdit.resources
+C:\Users\dicta_000\Source\Repos\WabiLogic\PersistProClient\obj\Debug\PersistProClient.RootNameFilterEdit.resources
+C:\Users\dicta_000\Source\Repos\WabiLogic\PersistProClient\obj\Debug\PersistProClient.ScheduleEdit.resources
+C:\Users\dicta_000\Source\Repos\WabiLogic\PersistProClient\obj\Debug\PersistProClient.ScheduleManagerEdit.resources
+C:\Users\dicta_000\Source\Repos\WabiLogic\PersistProClient\obj\Debug\PersistProClient.StatusView.resources
+C:\Users\dicta_000\Source\Repos\WabiLogic\PersistProClient\obj\Debug\PersistProClient.csproj.GenerateResource.Cache
+C:\Users\dicta_000\Source\Repos\WabiLogic\PersistProClient\obj\Debug\PersistProClient.exe
+C:\Users\dicta_000\Source\Repos\WabiLogic\PersistProClient\obj\Debug\PersistProClient.pdb

@@ -1,0 +1,56 @@
+C:\Users\carden\Documents\Visual Studio 2008\Projects\WabiLogic\PersistProServer\bin\Debug\PersistPro.sdf
+C:\Users\carden\Documents\Visual Studio 2008\Projects\WabiLogic\PersistProServer\bin\Debug\PersistProServer.exe.config
+C:\Users\carden\Documents\Visual Studio 2008\Projects\WabiLogic\PersistProServer\bin\Debug\PersistProServer.exe
+C:\Users\carden\Documents\Visual Studio 2008\Projects\WabiLogic\PersistProServer\bin\Debug\PersistProServer.pdb
+C:\Users\carden\Documents\Visual Studio 2008\Projects\WabiLogic\PersistProServer\bin\Debug\PersistPro.dll
+C:\Users\carden\Documents\Visual Studio 2008\Projects\WabiLogic\PersistProServer\bin\Debug\WabiLogic.Foundation.dll
+C:\Users\carden\Documents\Visual Studio 2008\Projects\WabiLogic\PersistProServer\bin\Debug\PersistPro.pdb
+C:\Users\carden\Documents\Visual Studio 2008\Projects\WabiLogic\PersistProServer\bin\Debug\WabiLogic.Foundation.pdb
+C:\Users\carden\Documents\Visual Studio 2008\Projects\WabiLogic\PersistProServer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\carden\Documents\Visual Studio 2008\Projects\WabiLogic\PersistProServer\obj\Debug\PersistProServer.PersistProService.resources
+C:\Users\carden\Documents\Visual Studio 2008\Projects\WabiLogic\PersistProServer\obj\Debug\PersistProServer.ProjectInstaller.resources
+C:\Users\carden\Documents\Visual Studio 2008\Projects\WabiLogic\PersistProServer\obj\Debug\PersistProServer.csproj.GenerateResource.Cache
+C:\Users\carden\Documents\Visual Studio 2008\Projects\WabiLogic\PersistProServer\obj\Debug\PersistProServer.exe
+C:\Users\carden\Documents\Visual Studio 2008\Projects\WabiLogic\PersistProServer\obj\Debug\PersistProServer.pdb
+C:\Users\Owner\Desktop\Ben -WabiLogic-1\WabiLogic\PersistProServer\bin\Debug\PersistPro.sdf
+C:\Users\Owner\Desktop\Ben -WabiLogic-1\WabiLogic\PersistProServer\bin\Debug\PersistProServer.exe.config
+C:\Users\Owner\Desktop\Ben -WabiLogic-1\WabiLogic\PersistProServer\bin\Debug\PersistProServer.exe
+C:\Users\Owner\Desktop\Ben -WabiLogic-1\WabiLogic\PersistProServer\bin\Debug\PersistProServer.pdb
+C:\Users\Owner\Desktop\Ben -WabiLogic-1\WabiLogic\PersistProServer\bin\Debug\PersistPro.dll
+C:\Users\Owner\Desktop\Ben -WabiLogic-1\WabiLogic\PersistProServer\bin\Debug\WabiLogic.Foundation.dll
+C:\Users\Owner\Desktop\Ben -WabiLogic-1\WabiLogic\PersistProServer\bin\Debug\PersistPro.pdb
+C:\Users\Owner\Desktop\Ben -WabiLogic-1\WabiLogic\PersistProServer\bin\Debug\WabiLogic.Foundation.pdb
+C:\Users\Owner\Desktop\Ben -WabiLogic-1\WabiLogic\PersistProServer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Owner\Desktop\Ben -WabiLogic-1\WabiLogic\PersistProServer\obj\Debug\PersistProServer.PersistProService.resources
+C:\Users\Owner\Desktop\Ben -WabiLogic-1\WabiLogic\PersistProServer\obj\Debug\PersistProServer.ProjectInstaller.resources
+C:\Users\Owner\Desktop\Ben -WabiLogic-1\WabiLogic\PersistProServer\obj\Debug\PersistProServer.csproj.GenerateResource.Cache
+C:\Users\Owner\Desktop\Ben -WabiLogic-1\WabiLogic\PersistProServer\obj\Debug\PersistProServer.exe
+C:\Users\Owner\Desktop\Ben -WabiLogic-1\WabiLogic\PersistProServer\obj\Debug\PersistProServer.pdb
+C:\Users\Owner\Documents\WabiLogic\Code\WabiLogic\PersistProServer\bin\Debug\PersistPro.sdf
+C:\Users\Owner\Documents\WabiLogic\Code\WabiLogic\PersistProServer\bin\Debug\PersistProServer.exe.config
+C:\Users\Owner\Documents\WabiLogic\Code\WabiLogic\PersistProServer\bin\Debug\PersistProServer.exe
+C:\Users\Owner\Documents\WabiLogic\Code\WabiLogic\PersistProServer\bin\Debug\PersistProServer.pdb
+C:\Users\Owner\Documents\WabiLogic\Code\WabiLogic\PersistProServer\bin\Debug\PersistPro.dll
+C:\Users\Owner\Documents\WabiLogic\Code\WabiLogic\PersistProServer\bin\Debug\WabiLogic.Foundation.dll
+C:\Users\Owner\Documents\WabiLogic\Code\WabiLogic\PersistProServer\bin\Debug\PersistPro.pdb
+C:\Users\Owner\Documents\WabiLogic\Code\WabiLogic\PersistProServer\bin\Debug\WabiLogic.Foundation.pdb
+C:\Users\Owner\Documents\WabiLogic\Code\WabiLogic\PersistProServer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Owner\Documents\WabiLogic\Code\WabiLogic\PersistProServer\obj\Debug\PersistProServer.PersistProService.resources
+C:\Users\Owner\Documents\WabiLogic\Code\WabiLogic\PersistProServer\obj\Debug\PersistProServer.ProjectInstaller.resources
+C:\Users\Owner\Documents\WabiLogic\Code\WabiLogic\PersistProServer\obj\Debug\PersistProServer.csproj.GenerateResource.Cache
+C:\Users\Owner\Documents\WabiLogic\Code\WabiLogic\PersistProServer\obj\Debug\PersistProServer.exe
+C:\Users\Owner\Documents\WabiLogic\Code\WabiLogic\PersistProServer\obj\Debug\PersistProServer.pdb
+C:\Users\dicta_000\Source\Repos\WabiLogic\PersistProServer\bin\Debug\PersistPro.sdf
+C:\Users\dicta_000\Source\Repos\WabiLogic\PersistProServer\bin\Debug\PersistProServer.exe.config
+C:\Users\dicta_000\Source\Repos\WabiLogic\PersistProServer\bin\Debug\PersistProServer.exe
+C:\Users\dicta_000\Source\Repos\WabiLogic\PersistProServer\bin\Debug\PersistProServer.pdb
+C:\Users\dicta_000\Source\Repos\WabiLogic\PersistProServer\bin\Debug\PersistPro.dll
+C:\Users\dicta_000\Source\Repos\WabiLogic\PersistProServer\bin\Debug\WabiLogic.Foundation.dll
+C:\Users\dicta_000\Source\Repos\WabiLogic\PersistProServer\bin\Debug\PersistPro.pdb
+C:\Users\dicta_000\Source\Repos\WabiLogic\PersistProServer\bin\Debug\WabiLogic.Foundation.pdb
+C:\Users\dicta_000\Source\Repos\WabiLogic\PersistProServer\obj\Debug\PersistProServer.csprojResolveAssemblyReference.cache
+C:\Users\dicta_000\Source\Repos\WabiLogic\PersistProServer\obj\Debug\PersistProServer.PersistProService.resources
+C:\Users\dicta_000\Source\Repos\WabiLogic\PersistProServer\obj\Debug\PersistProServer.ProjectInstaller.resources
+C:\Users\dicta_000\Source\Repos\WabiLogic\PersistProServer\obj\Debug\PersistProServer.csproj.GenerateResource.Cache
+C:\Users\dicta_000\Source\Repos\WabiLogic\PersistProServer\obj\Debug\PersistProServer.exe
+C:\Users\dicta_000\Source\Repos\WabiLogic\PersistProServer\obj\Debug\PersistProServer.pdb

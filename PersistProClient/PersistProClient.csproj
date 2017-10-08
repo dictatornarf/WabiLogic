@@ -1,0 +1,407 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{7575D023-D994-4DBC-89CD-BBFA8567D511}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>PersistProClient</RootNamespace>
+    <AssemblyName>PersistProClient</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <ApplicationIcon>Resources\persistpro_icon_final.ico</ApplicationIcon>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Design" />
+    <Reference Include="System.ServiceModel">
+      <RequiredTargetFramework>3.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CommunicationError.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CommunicationError.Designer.cs">
+      <DependentUpon>CommunicationError.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ExternalDriveMountEdit.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ExternalDriveMountEdit.Designer.cs">
+      <DependentUpon>ExternalDriveMountEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FileMountEdit.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="FileMountEdit.Designer.cs">
+      <DependentUpon>FileMountEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FtpMountEdit.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="FtpMountEdit.Designer.cs">
+      <DependentUpon>FtpMountEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MountManagerEdit.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="MountManagerEdit.Designer.cs">
+      <DependentUpon>MountManagerEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NavigationControl.cs" />
+    <Compile Include="PersistProControlBase.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PersistPro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PersistPro.Designer.cs">
+      <DependentUpon>PersistPro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PersistProManager.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PersistProManager.Designer.cs">
+      <DependentUpon>PersistProManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PlanEdit.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PlanEdit.Designer.cs">
+      <DependentUpon>PlanEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PlanManagerEdit.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PlanManagerEdit.Designer.cs">
+      <DependentUpon>PlanManagerEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Configure.resx">
+      <DependentUpon>Configure.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ExternalDriveMountEdit.resx">
+      <DependentUpon>ExternalDriveMountEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FileMountEdit.resx">
+      <DependentUpon>FileMountEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FtpMountEdit.resx">
+      <DependentUpon>FtpMountEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MountManagerEdit.resx">
+      <DependentUpon>MountManagerEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PersistPro.resx">
+      <DependentUpon>PersistPro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PersistProControlBase.resx">
+      <DependentUpon>PersistProControlBase.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PersistProManager.resx">
+      <DependentUpon>PersistProManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PlanEdit.resx">
+      <DependentUpon>PlanEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PlanManagerEdit.resx">
+      <DependentUpon>PlanManagerEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegisterSplash.resx">
+      <DependentUpon>RegisterSplash.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RestoreBrowser.resx">
+      <DependentUpon>RestoreBrowser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RestoreProgress.resx">
+      <DependentUpon>RestoreProgress.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RestoreQuick.resx">
+      <DependentUpon>RestoreQuick.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RestoreSelector.resx">
+      <DependentUpon>RestoreSelector.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RootAttributeFilterEdit.resx">
+      <DependentUpon>RootAttributeFilterEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RootEdit.resx">
+      <DependentUpon>RootEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RootManagerEdit.resx">
+      <DependentUpon>RootManagerEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RootNameFilterEdit.resx">
+      <DependentUpon>RootNameFilterEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ScheduleEdit.resx">
+      <DependentUpon>ScheduleEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ScheduleManagerEdit.resx">
+      <DependentUpon>ScheduleManagerEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StatusView.resx">
+      <DependentUpon>StatusView.cs</DependentUpon>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="RegisterSplash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegisterSplash.Designer.cs">
+      <DependentUpon>RegisterSplash.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RestoreBrowser.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="RestoreBrowser.Designer.cs">
+      <DependentUpon>RestoreBrowser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RestoreProgress.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RestoreProgress.designer.cs">
+      <DependentUpon>RestoreProgress.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RestoreQuick.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="RestoreQuick.designer.cs">
+      <DependentUpon>RestoreQuick.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RestoreSelector.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="RestoreSelector.designer.cs">
+      <DependentUpon>RestoreSelector.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RootAttributeFilterEdit.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="RootAttributeFilterEdit.Designer.cs">
+      <DependentUpon>RootAttributeFilterEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RootEdit.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="RootEdit.Designer.cs">
+      <DependentUpon>RootEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RootManagerEdit.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="RootManagerEdit.Designer.cs">
+      <DependentUpon>RootManagerEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RootNameFilterEdit.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="RootNameFilterEdit.Designer.cs">
+      <DependentUpon>RootNameFilterEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ScheduleEdit.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ScheduleEdit.Designer.cs">
+      <DependentUpon>ScheduleEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ScheduleManagerEdit.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ScheduleManagerEdit.Designer.cs">
+      <DependentUpon>ScheduleManagerEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Configure.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Configure.Designer.cs">
+      <DependentUpon>Configure.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StatusView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="StatusView.Designer.cs">
+      <DependentUpon>StatusView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewState.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="Resources\BackupExplorerHelp.rtf" />
+    <None Include="Resources\ConfigureHelp.rtf" />
+    <None Include="Resources\ExternalDriveMountHelp.rtf" />
+    <None Include="Resources\FileMountHelp.rtf" />
+    <None Include="Resources\FtpMountHelp.rtf" />
+    <None Include="Resources\MountManagerHelp.rtf" />
+    <None Include="Resources\PersistProBanner2.png" />
+    <None Include="Resources\PersistProManagerHelp.rtf" />
+    <None Include="Resources\PlanHelp.rtf" />
+    <None Include="Resources\PlanManagerHelp.rtf" />
+    <None Include="Resources\QuickRestoreHelp.rtf" />
+    <None Include="Resources\RestoreSelectorHelp.rtf" />
+    <None Include="Resources\RootAttributeFilterHelp.rtf" />
+    <None Include="Resources\RootHelp.rtf" />
+    <None Include="Resources\RootManagerHelp.rtf" />
+    <None Include="Resources\RootNameFilterHelp.rtf" />
+    <None Include="Resources\ScheduleHelp.rtf" />
+    <None Include="Resources\ScheduleManagerHelp.rtf" />
+    <None Include="Resources\StatusViewHelp.rtf" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NotifyIconOK.ico" />
+    <None Include="Resources\NotifyIconError.ico" />
+    <None Include="Resources\PersistProEULA.rtf" />
+    <None Include="Resources\pp-concept32.ico" />
+    <None Include="Resources\pp-concept16.ico" />
+    <None Include="Resources\NotifyIconError_new.ico" />
+    <None Include="Resources\pp-concept4.ico" />
+    <None Include="Resources\pp-concept4_error.ico" />
+    <None Include="Resources\ConceptLogo_NoBackGround.png" />
+    <None Include="Resources\persistpro_logo.png" />
+    <None Include="Resources\persistpro_logo_new48.png" />
+    <None Include="Resources\pp-logowithicon.png" />
+    <None Include="Resources\pp-conceptwithicon_new.png" />
+    <None Include="Resources\pp-conceptwithicon_new2.png" />
+    <None Include="Resources\ConceptLogo_NoBackGround_new.png" />
+    <None Include="Resources\persistpro_icon_final.ico" />
+    <None Include="Resources\ConceptLogo_NoBackGround_Orange.png" />
+    <None Include="Resources\install_banner.jpg" />
+    <None Include="Resources\WabiLogo-no background.png" />
+    <Content Include="Wabi.ico" />
+    <Content Include="Resources\CLSDFOLD.BMP" />
+    <Content Include="Resources\ExpirationHS.png" />
+    <Content Include="Resources\Folder_Closed.png" />
+    <Content Include="Resources\Folder_Open.png" />
+    <Content Include="Resources\Generic_Device.png" />
+    <Content Include="Resources\Generic_Document.png" />
+    <Content Include="Resources\OPENFOLD.BMP" />
+    <Content Include="Resources\PersistProBanner.png" />
+    <Content Include="Resources\Stuffed_Folder.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Foundation\Foundation.csproj">
+      <Project>{26F13485-2660-406D-9B0A-38C956E8C1DE}</Project>
+      <Name>Foundation</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PersistPro\PersistPro.csproj">
+      <Project>{4F5BCE63-BBDD-460D-A98F-349B700906A2}</Project>
+      <Name>PersistPro</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Help\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

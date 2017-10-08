@@ -1,0 +1,32 @@
+C:\Users\carden\Documents\Visual Studio 2008\Projects\WabiLogic\Foundation\bin\Release\WabiLogic.Foundation.dll
+C:\Users\carden\Documents\Visual Studio 2008\Projects\WabiLogic\Foundation\bin\Release\WabiLogic.Foundation.pdb
+C:\Users\carden\Documents\Visual Studio 2008\Projects\WabiLogic\Foundation\obj\Release\ResolveAssemblyReference.cache
+C:\Users\carden\Documents\Visual Studio 2008\Projects\WabiLogic\Foundation\obj\Release\WabiLogic.Foundation.Properties.Resources.resources
+C:\Users\carden\Documents\Visual Studio 2008\Projects\WabiLogic\Foundation\obj\Release\WabiLogic.Foundation.Storage.BasicBase.BasicDataSet.resources
+C:\Users\carden\Documents\Visual Studio 2008\Projects\WabiLogic\Foundation\obj\Release\Foundation.csproj.GenerateResource.Cache
+C:\Users\carden\Documents\Visual Studio 2008\Projects\WabiLogic\Foundation\obj\Release\WabiLogic.Foundation.dll
+C:\Users\carden\Documents\Visual Studio 2008\Projects\WabiLogic\Foundation\obj\Release\WabiLogic.Foundation.pdb
+C:\Users\Owner\Documents\WabiLogic\Code\WabiLogic\Foundation\bin\Release\WabiLogic.Foundation.dll
+C:\Users\Owner\Documents\WabiLogic\Code\WabiLogic\Foundation\bin\Release\WabiLogic.Foundation.pdb
+C:\Users\Owner\Documents\WabiLogic\Code\WabiLogic\Foundation\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Owner\Documents\WabiLogic\Code\WabiLogic\Foundation\obj\Release\WabiLogic.Foundation.Properties.Resources.resources
+C:\Users\Owner\Documents\WabiLogic\Code\WabiLogic\Foundation\obj\Release\WabiLogic.Foundation.Storage.BasicBase.BasicDataSet.resources
+C:\Users\Owner\Documents\WabiLogic\Code\WabiLogic\Foundation\obj\Release\Foundation.csproj.GenerateResource.Cache
+C:\Users\Owner\Documents\WabiLogic\Code\WabiLogic\Foundation\obj\Release\WabiLogic.Foundation.dll
+C:\Users\Owner\Documents\WabiLogic\Code\WabiLogic\Foundation\obj\Release\WabiLogic.Foundation.pdb
+C:\Users\Owner\Desktop\WabiLogic_20090406\WabiLogic\Foundation\bin\Release\WabiLogic.Foundation.dll
+C:\Users\Owner\Desktop\WabiLogic_20090406\WabiLogic\Foundation\bin\Release\WabiLogic.Foundation.pdb
+C:\Users\Owner\Desktop\WabiLogic_20090406\WabiLogic\Foundation\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Owner\Desktop\WabiLogic_20090406\WabiLogic\Foundation\obj\Release\WabiLogic.Foundation.Properties.Resources.resources
+C:\Users\Owner\Desktop\WabiLogic_20090406\WabiLogic\Foundation\obj\Release\WabiLogic.Foundation.Storage.BasicBase.BasicDataSet.resources
+C:\Users\Owner\Desktop\WabiLogic_20090406\WabiLogic\Foundation\obj\Release\Foundation.csproj.GenerateResource.Cache
+C:\Users\Owner\Desktop\WabiLogic_20090406\WabiLogic\Foundation\obj\Release\WabiLogic.Foundation.dll
+C:\Users\Owner\Desktop\WabiLogic_20090406\WabiLogic\Foundation\obj\Release\WabiLogic.Foundation.pdb
+C:\Users\dicta_000\Documents\Wabilogic\WabiLogic\Foundation\bin\Release\WabiLogic.Foundation.dll
+C:\Users\dicta_000\Documents\Wabilogic\WabiLogic\Foundation\bin\Release\WabiLogic.Foundation.pdb
+C:\Users\dicta_000\Documents\Wabilogic\WabiLogic\Foundation\obj\Release\Foundation.csprojResolveAssemblyReference.cache
+C:\Users\dicta_000\Documents\Wabilogic\WabiLogic\Foundation\obj\Release\WabiLogic.Foundation.Properties.Resources.resources
+C:\Users\dicta_000\Documents\Wabilogic\WabiLogic\Foundation\obj\Release\WabiLogic.Foundation.Storage.BasicBase.BasicDataSet.resources
+C:\Users\dicta_000\Documents\Wabilogic\WabiLogic\Foundation\obj\Release\Foundation.csproj.GenerateResource.Cache
+C:\Users\dicta_000\Documents\Wabilogic\WabiLogic\Foundation\obj\Release\WabiLogic.Foundation.dll
+C:\Users\dicta_000\Documents\Wabilogic\WabiLogic\Foundation\obj\Release\WabiLogic.Foundation.pdb

@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="RootDataSet" targetNamespace="http://tempuri.org/RootDataSet.xsd" xmlns:mstns="http://tempuri.org/RootDataSet.xsd" xmlns="http://tempuri.org/RootDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="RootDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="RootDataSet" msprop:Generator_DataSetName="RootDataSet" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Root" msprop:Generator_UserTableName="Root" msprop:Generator_RowDeletedName="RootRowDeleted" msprop:Generator_RowChangedName="RootRowChanged" msprop:Generator_RowClassName="RootRow" msprop:Generator_RowChangingName="RootRowChanging" msprop:Generator_RowEvArgName="RootRowChangeEvent" msprop:Generator_RowEvHandlerName="RootRowChangeEventHandler" msprop:Generator_TableClassName="RootDataTable" msprop:Generator_TableVarName="tableRoot" msprop:Generator_RowDeletingName="RootRowDeleting" msprop:Generator_TablePropName="Root">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="RootId" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="1" msprop:Generator_UserColumnName="RootId" msprop:Generator_ColumnPropNameInRow="RootId" msprop:Generator_ColumnVarNameInTable="columnRootId" msprop:Generator_ColumnPropNameInTable="RootIdColumn" type="xs:int" />
+              <xs:element name="Name" msprop:Generator_UserColumnName="Name" msprop:Generator_ColumnPropNameInRow="Name" msprop:Generator_ColumnVarNameInTable="columnName" msprop:Generator_ColumnPropNameInTable="NameColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Path" msprop:Generator_UserColumnName="Path" msprop:Generator_ColumnPropNameInRow="Path" msprop:Generator_ColumnVarNameInTable="columnPath" msprop:Generator_ColumnPropNameInTable="PathColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Sub" msprop:Generator_UserColumnName="Sub" msprop:Generator_ColumnPropNameInRow="Sub" msprop:Generator_ColumnVarNameInTable="columnSub" msprop:Generator_ColumnPropNameInTable="SubColumn" type="xs:boolean" minOccurs="0" />
+              <xs:element name="Note" msprop:Generator_UserColumnName="Note" msprop:Generator_ColumnPropNameInRow="Note" msprop:Generator_ColumnVarNameInTable="columnNote" msprop:Generator_ColumnPropNameInTable="NoteColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="NameFilter" msprop:Generator_UserTableName="NameFilter" msprop:Generator_RowDeletedName="NameFilterRowDeleted" msprop:Generator_RowChangedName="NameFilterRowChanged" msprop:Generator_RowClassName="NameFilterRow" msprop:Generator_RowChangingName="NameFilterRowChanging" msprop:Generator_RowEvArgName="NameFilterRowChangeEvent" msprop:Generator_RowEvHandlerName="NameFilterRowChangeEventHandler" msprop:Generator_TableClassName="NameFilterDataTable" msprop:Generator_TableVarName="tableNameFilter" msprop:Generator_RowDeletingName="NameFilterRowDeleting" msprop:Generator_TablePropName="NameFilter">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="NameFilterId" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="1" msprop:Generator_UserColumnName="NameFilterId" msprop:Generator_ColumnPropNameInRow="NameFilterId" msprop:Generator_ColumnVarNameInTable="columnNameFilterId" msprop:Generator_ColumnPropNameInTable="NameFilterIdColumn" type="xs:int" />
+              <xs:element name="RootId" msprop:Generator_UserColumnName="RootId" msprop:Generator_ColumnPropNameInRow="RootId" msprop:Generator_ColumnVarNameInTable="columnRootId" msprop:Generator_ColumnPropNameInTable="RootIdColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="Filter" msprop:Generator_UserColumnName="Filter" msprop:Generator_ColumnPropNameInRow="Filter" msprop:Generator_ColumnVarNameInTable="columnFilter" msprop:Generator_ColumnPropNameInTable="FilterColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="FilterType" msdata:DataType="OnlineBackupUtility.Root.FilterType, OnlineBackupUtility, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" msprop:Generator_UserColumnName="FilterType" msprop:Generator_ColumnPropNameInRow="FilterType" msprop:Generator_ColumnVarNameInTable="columnFilterType" msprop:Generator_ColumnPropNameInTable="FilterTypeColumn" type="xs:anyType" minOccurs="0" />
+              <xs:element name="Note" msprop:Generator_UserColumnName="Note" msprop:Generator_ColumnPropNameInRow="Note" msprop:Generator_ColumnVarNameInTable="columnNote" msprop:Generator_ColumnPropNameInTable="NoteColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="AttributeFilter" msprop:Generator_UserTableName="AttributeFilter" msprop:Generator_RowDeletedName="AttributeFilterRowDeleted" msprop:Generator_RowChangedName="AttributeFilterRowChanged" msprop:Generator_RowClassName="AttributeFilterRow" msprop:Generator_RowChangingName="AttributeFilterRowChanging" msprop:Generator_RowEvArgName="AttributeFilterRowChangeEvent" msprop:Generator_RowEvHandlerName="AttributeFilterRowChangeEventHandler" msprop:Generator_TableClassName="AttributeFilterDataTable" msprop:Generator_TableVarName="tableAttributeFilter" msprop:Generator_RowDeletingName="AttributeFilterRowDeleting" msprop:Generator_TablePropName="AttributeFilter">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="AttributeFilterId" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="1" msprop:Generator_UserColumnName="AttributeFilterId" msprop:Generator_ColumnPropNameInRow="AttributeFilterId" msprop:Generator_ColumnVarNameInTable="columnAttributeFilterId" msprop:Generator_ColumnPropNameInTable="AttributeFilterIdColumn" type="xs:int" />
+              <xs:element name="RootId" msprop:Generator_UserColumnName="RootId" msprop:Generator_ColumnPropNameInRow="RootId" msprop:Generator_ColumnVarNameInTable="columnRootId" msprop:Generator_ColumnPropNameInTable="RootIdColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="Filter" msdata:DataType="System.IO.FileAttributes, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" msprop:Generator_UserColumnName="Filter" msprop:Generator_ColumnPropNameInRow="Filter" msprop:Generator_ColumnVarNameInTable="columnFilter" msprop:Generator_ColumnPropNameInTable="FilterColumn" type="xs:anyType" minOccurs="0" />
+              <xs:element name="FilterType" msdata:DataType="OnlineBackupUtility.Root.FilterType, OnlineBackupUtility, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" msprop:Generator_UserColumnName="FilterType" msprop:Generator_ColumnPropNameInRow="FilterType" msprop:Generator_ColumnVarNameInTable="columnFilterType" msprop:Generator_ColumnPropNameInTable="FilterTypeColumn" type="xs:anyType" minOccurs="0" />
+              <xs:element name="Note" msprop:Generator_UserColumnName="Note" msprop:Generator_ColumnPropNameInRow="Note" msprop:Generator_ColumnVarNameInTable="columnNote" msprop:Generator_ColumnPropNameInTable="NoteColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Schedule" msprop:Generator_UserTableName="Schedule" msprop:Generator_RowDeletedName="ScheduleRowDeleted" msprop:Generator_RowChangedName="ScheduleRowChanged" msprop:Generator_RowClassName="ScheduleRow" msprop:Generator_RowChangingName="ScheduleRowChanging" msprop:Generator_RowEvArgName="ScheduleRowChangeEvent" msprop:Generator_RowEvHandlerName="ScheduleRowChangeEventHandler" msprop:Generator_TableClassName="ScheduleDataTable" msprop:Generator_TableVarName="tableSchedule" msprop:Generator_RowDeletingName="ScheduleRowDeleting" msprop:Generator_TablePropName="Schedule">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ScheduleId" msprop:Generator_UserColumnName="ScheduleId" msprop:Generator_ColumnPropNameInRow="ScheduleId" msprop:Generator_ColumnVarNameInTable="columnScheduleId" msprop:Generator_ColumnPropNameInTable="ScheduleIdColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="Time" msprop:Generator_UserColumnName="Time" msprop:Generator_ColumnPropNameInRow="Time" msprop:Generator_ColumnVarNameInTable="columnTime" msprop:Generator_ColumnPropNameInTable="TimeColumn" type="xs:duration" minOccurs="0" />
+              <xs:element name="ScheduleType" msdata:DataType="OnlineBackupUtility.Root.ScheduleType, OnlineBackupUtility, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" msprop:Generator_UserColumnName="ScheduleType" msprop:Generator_ColumnPropNameInRow="ScheduleType" msprop:Generator_ColumnVarNameInTable="columnScheduleType" msprop:Generator_ColumnPropNameInTable="ScheduleTypeColumn" type="xs:anyType" minOccurs="0" />
+              <xs:element name="DayOfWeek" msdata:DataType="System.DayOfWeek, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" msprop:Generator_UserColumnName="DayOfWeek" msprop:Generator_ColumnPropNameInRow="DayOfWeek" msprop:Generator_ColumnVarNameInTable="columnDayOfWeek" msprop:Generator_ColumnPropNameInTable="DayOfWeekColumn" type="xs:anyType" minOccurs="0" />
+              <xs:element name="WeekOfMonth" msdata:DataType="OnlineBackupUtility.Root.WeekOfMonth, OnlineBackupUtility, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" msprop:Generator_UserColumnName="WeekOfMonth" msprop:Generator_ColumnPropNameInRow="WeekOfMonth" msprop:Generator_ColumnVarNameInTable="columnWeekOfMonth" msprop:Generator_ColumnPropNameInTable="WeekOfMonthColumn" type="xs:anyType" minOccurs="0" />
+              <xs:element name="PromptBeforeBackup" msprop:Generator_UserColumnName="PromptBeforeBackup" msprop:Generator_ColumnPropNameInRow="PromptBeforeBackup" msprop:Generator_ColumnVarNameInTable="columnPromptBeforeBackup" msprop:Generator_ColumnPropNameInTable="PromptBeforeBackupColumn" type="xs:boolean" minOccurs="0" />
+              <xs:element name="PeriodToWaitBeforeAlertIfNotCompleted" msprop:Generator_UserColumnName="PeriodToWaitBeforeAlertIfNotCompleted" msprop:Generator_ColumnPropNameInRow="PeriodToWaitBeforeAlertIfNotCompleted" msprop:Generator_ColumnVarNameInTable="columnPeriodToWaitBeforeAlertIfNotCompleted" msprop:Generator_ColumnPropNameInTable="PeriodToWaitBeforeAlertIfNotCompletedColumn" type="xs:duration" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1">
+      <xs:selector xpath=".//mstns:Root" />
+      <xs:field xpath="mstns:RootId" />
+    </xs:unique>
+    <xs:unique name="NameFilter_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:NameFilter" />
+      <xs:field xpath="mstns:NameFilterId" />
+    </xs:unique>
+    <xs:unique name="AttributeFilter_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:AttributeFilter" />
+      <xs:field xpath="mstns:AttributeFilterId" />
+    </xs:unique>
+  </xs:element>
+  <xs:annotation>
+    <xs:appinfo>
+      <msdata:Relationship name="Root_NameFilter" msdata:parent="Root" msdata:child="NameFilter" msdata:parentkey="RootId" msdata:childkey="RootId" msprop:Generator_UserRelationName="Root_NameFilter" msprop:Generator_RelationVarName="relationRoot_NameFilter" msprop:Generator_UserChildTable="NameFilter" msprop:Generator_UserParentTable="Root" msprop:Generator_ParentPropName="RootRow" msprop:Generator_ChildPropName="GetNameFilterRows" />
+      <msdata:Relationship name="Root_AttributeFilter" msdata:parent="Root" msdata:child="AttributeFilter" msdata:parentkey="RootId" msdata:childkey="RootId" msprop:Generator_UserRelationName="Root_AttributeFilter" msprop:Generator_RelationVarName="relationRoot_AttributeFilter" msprop:Generator_UserChildTable="AttributeFilter" msprop:Generator_UserParentTable="Root" msprop:Generator_ParentPropName="RootRow" msprop:Generator_ChildPropName="GetAttributeFilterRows" />
+    </xs:appinfo>
+  </xs:annotation>
+</xs:schema>

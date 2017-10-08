@@ -1,0 +1,4 @@
+C:\Users\carden\Documents\Visual Studio 2008\Projects\OnlineBackupUtility\Storage\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\carden\Documents\Visual Studio 2008\Projects\OnlineBackupUtility\Storage\obj\Debug\Storage.Properties.Resources.resources
+C:\Users\carden\Documents\Visual Studio 2008\Projects\OnlineBackupUtility\Storage\obj\Debug\Storage.Storage.BasicBase.BasicDataSet.resources
+C:\Users\carden\Documents\Visual Studio 2008\Projects\OnlineBackupUtility\Storage\obj\Debug\Storage.csproj.GenerateResource.Cache
